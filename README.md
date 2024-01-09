@@ -1,5 +1,5 @@
 - Hi, I’m Lawrence Zheng
-  - I’m interested in esports
+- I’m interested in esports
 - I’m currently learning some layers in the OSI model
 - I'm originally from Hawaii
 - I'm a Freshman in Computer Engineering 
