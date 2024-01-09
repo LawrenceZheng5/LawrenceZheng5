@@ -1,7 +1,7 @@
 - Hi, I’m Lawrence Zheng
-- I’m interested in FILL_THIS_IN
-- I’m currently learning FILL_THIS_IN
-- I'm originally from America
+  - I’m interested in esports
+- I’m currently learning some layers in the OSI model
+- I'm originally from Hawaii
 - I'm a Freshman in Computer Engineering 
 - I chose my major because I liked electronics and had an interest in coding
 - A fun fact about me is:  I have a brown patch on my left eye
